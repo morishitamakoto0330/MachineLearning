@@ -1,4 +1,4 @@
-# Additional subjects for lectures at university
+# hoge
 - SVM
 - Expectation-Maximization
 - LeNet
