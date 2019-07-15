@@ -3,7 +3,7 @@
 	- サポートベクタマシンの実装  
 	マージンの最大化（主問題）は，ラグランジュの未定乗数法によりラグランジュ関数の最大化（双対問題）に置き換え，ペナルティ法を用いて解いた．  
 
-- Expectation-Maximization
+- Expectation-Maximization 
 - LeNet
 - ResNet
 - loss function
