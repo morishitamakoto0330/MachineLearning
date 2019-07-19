@@ -5,8 +5,13 @@
 
 - Expectation-Maximization アルゴリズム
 	- EMアルゴリズムによる混合ガウス分布の推定の実装  
-- LeNet
+
+- LeNet-5
+  - LeNet-5を用いた手書き文字認識の実装
+
 - ResNet
+
+
 - loss function
 - overfitting
 
